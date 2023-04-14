@@ -1,0 +1,9 @@
+film,1000,tenet,christopher nolan,7.4,https://www.imdb.com/title/tt6723592/,150,john david washington,robert pattinson,elizabeth debicki
+film,1001,interstellar,christopher nolan,8.6,https://www.imdb.com/title/tt0816692/,169,matthew mcconaughey,anne hathaway,jessica chastain
+series,1002,attack on titan,wit studio and mappa,9.0,https://www.imdb.com/title/tt2560140/,24,86,y?»ki kaji,marina inoue,josh grelle
+series,1003,chernobyl,craig mazin,9.4,https://www.imdb.com/title/tt7366338/,60,5,jessie buckley,jared harris,stellan skarsg?¥rd
+documentary,1004,planet earth,bbc,9.4,https://www.imdb.com/title/tt0795176/,50,11,david attenborough,sigourney weaver,nikolay drozdov
+documentary,1005,planet earth ii,bbc,9.5,https://www.imdb.com/title/tt5491994/,50,6,david attenborough
+clip,1006,run boy run... - attack on titan (amv),black iceberg(yt),https://www.youtube.com/watch?v=6zwfkwaud6a,3
+clip,1007,tokyo ghoul amv,justkingdion(yt),https://www.youtube.com/watch?v=rved44_uz8s,5
+clip,1008,koe no katachi rise amv,senpiex(yt),https://www.youtube.com/watch?v=igadp2i1itq,3
